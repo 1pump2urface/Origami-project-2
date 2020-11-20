@@ -1,0 +1,19 @@
+h1 {
+    display: flex;
+    color: skyblue;
+    border:solid  purple;
+    margin:50px;
+
+    justify-content: center;
+    
+    
+
+    
+
+
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
